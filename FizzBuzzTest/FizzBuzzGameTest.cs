@@ -32,6 +32,7 @@ namespace FizzBuzzTest
             //then
             Assert.Equal("Fizz", res);
         }
+
         [Fact]
         public void Should_return_the_Fizz_when_countoff_given_a_number_can_mod_by_five()
         {
