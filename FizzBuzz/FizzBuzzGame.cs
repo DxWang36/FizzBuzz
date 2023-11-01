@@ -1,6 +1,12 @@
-﻿namespace FizzBuzz
+﻿using System;
+
+namespace FizzBuzz
 {
     public class FizzBuzzGame
     {
+        public static string Countoff(int givenNumber)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
